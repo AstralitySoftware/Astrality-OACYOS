@@ -1,5 +1,7 @@
 # ⚠️ WARNING: THIS IS JUST A BARE-BONE IDEA
 
+
+
 # Astrality OACYOS
 Astrality OACYOS stands for Optimize And Clean Your Operating System. 
 It's a lightweight and fast system optimization tool designed for Windows 10 and 11 (64-bit). 
